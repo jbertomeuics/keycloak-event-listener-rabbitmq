@@ -2,7 +2,7 @@ package com.github.aznamier.keycloak.event.provider;
 
 import java.io.Serializable;
 
-import javax.xml.bind.annotation.XmlRootElement;
+import jakarta.xml.bind.annotation.XmlRootElement;
 
 import org.keycloak.events.admin.AdminEvent;
 
